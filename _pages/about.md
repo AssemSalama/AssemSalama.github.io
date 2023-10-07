@@ -11,6 +11,7 @@ redirect_from:
 <div style="float: right; margin: 0px 0px 10px 10px;">
   <img src="/images/pot_img.jpg" alt="Illustration of combining vision and language modalities" width="300px">
 </div>
+
 ### ✨ About Me ✨
 Data science practitioner who has Telecomm. Engineering background with an enthusiasm for solving problems and making an impact through advanced analytics and machine learning.
 
