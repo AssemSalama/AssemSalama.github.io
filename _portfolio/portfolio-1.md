@@ -15,14 +15,10 @@ We were able to:
 - Build your own **web API and server** to serve your model’s predictions.
 
 ### This project consists of 5 Notebooks :
-
 **1. Working with APIs**
-
 **2. Test-Driven Development**
-
 **3. Predicting Volatility Via GARCH**
-
 **4. Model Deployment**
+**5. Volatility Forecasting in South Africa**
 
-**5. Volatility Forecasting in South Africa 🇿🇦**
-you can  find the whole blog [here](https://www.notion.so/Project_8-2d74b5a866694242911cf00c7ca4b759)
+You can find the whole project blog [here](https://www.notion.so/Project_8-2d74b5a866694242911cf00c7ca4b759)
