@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Assem"
+title: "👋🏼 Hello there, I'm Assem!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,13 +19,14 @@ Data science practitioner who has Telecomm. Engineering background with an enthu
 
 🎮 An avid lover of football and playing FIFA
 
-### ⚡️ Currently ⚡️
-- Working on exciting data projects
-- Learning deep learning and new machine learning techniques
+###⚡️ Currently ⚡️
+📚 Working on exciting data science projects
+
+🤖 Learning deep learning and new machine learning techniques
 
 ### 💡 Core Competencies 💡
 Languages: Python
 
 Big Data & Machine Learning: SQL, MongoDB, scikit-learn, NumPy, pandas, matplotlib
 Data Science: A/B testing, ETL, Data visualization, Hypothesis testing
-Skills: Regression, Classification, Clustering, Time series analysis
+Skills: Regression, Classification, Clustering, and time series analysis
