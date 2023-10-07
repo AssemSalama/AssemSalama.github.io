@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="float: right; margin: 0px 0px 10px 10px;">
-  <img src="/images/pot_img.jpg" alt="Illustration of combining vision and language modalities" width="300px">
+  <img src="/images/pot_img.jpg" alt="Illustration of combining vision and language modalities" width="400px">
 </div>
 
 ### ✨ About Me ✨
@@ -24,7 +24,7 @@ Data science practitioner who has Telecomm. Engineering background with an enthu
 
 🤖 Learning deep learning and new machine learning techniques
 
-### 💡 Core Competencies 💡
+### 💡Core Competencies💡
 Languages: Python
 
 Big Data & Machine Learning: SQL, MongoDB, scikit-learn, NumPy, pandas, matplotlib
