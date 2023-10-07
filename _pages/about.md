@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){ width=60%,height:30px }
+! [Illustration of combining vision and language modalities](/images/image_to_text_vis.png){ width=60%,height:30px }
 
 ### ✨ About Me ✨
 Data science practitioner who has Telecomm. Engineering background with an enthusiasm for solving problems and making an impact through advanced analytics and machine learning.
