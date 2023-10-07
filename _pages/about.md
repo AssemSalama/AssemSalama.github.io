@@ -19,7 +19,7 @@ Data science practitioner who has Telecomm. Engineering background with an enthu
 
 🎮 An avid lover of football and playing FIFA
 
-###⚡️ Currently ⚡️
+### 📌 Currently 📌
 📚 Working on exciting data science projects
 
 🤖 Learning deep learning and new machine learning techniques
