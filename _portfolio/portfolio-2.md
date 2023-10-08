@@ -1,6 +1,7 @@
 ---
 title: "A/B Testing at WorldQuant University"
-excerpt: "This project aims to address the challenge of low completion rates for the admissions quiz in the Data Science Lab (DS Lab) program at WQU. The primary business problem is a substantial number of applicants not finishing the quiz, which can lead to reduced enrollment, inefficient resource allocation, and potential impacts on the quality of admitted students. The expected outcomes include increased quiz completion rates, resulting in higher enrollment, better resource management, and improved student quality, ultimately benefiting the DS Lab program at WQU.<br/><img src='/images/AB-Test (Small).jpg'>"
+excerpt: "This project aims to address the challenge of low completion rates for the admissions quiz in the Data Science Lab (DS Lab) program at WQU. The primary business problem is a substantial number of applicants not finishing the quiz, which can lead to reduced enrollment, inefficient resource allocation, and potential impacts on the quality of admitted students. The expected outcomes include increased quiz completion rates, resulting in higher enrollment, better resource management, and improved student quality, ultimately benefiting the DS Lab program at WQU.<br/><img src='/images/AB-Test (Small).jpg' style='display: block; margin: 0 auto; max-width: 400px; width: 100%;'>
+"
 collection: portfolio
 ---
 
@@ -10,7 +11,7 @@ First, we'll explore the DS Lab applicant pool, and formulate a research questio
 
 This project is an example of **A/B testing**, also known as a randomized controlled experiment. In the private sector, A/B tests are used to improve things like email marketing and product pricing. In politics, they can be used to test campaign messages. Scientists of all kinds use them in their research.
 
-We were able to:
+### We were able to:
 - Build a **choropleth map** to show the distribution of ADSL students around the world.
 - Create a **custom Python class** to implement **ETL processes**.
 - Design an experiment and analyze the results using a **chi-square test**.
