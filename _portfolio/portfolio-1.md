@@ -1,6 +1,6 @@
 ---
 title: "Market Forecasting in India"
-excerpt: "This project is providing a tool for financial professionals and investors to predict and manage stock market volatility in the Indian market. By creating a model to forecast volatility, individuals and organizations can make more informed investment decisions and potentially reduce the financial risks associated with market fluctuations. This can be particularly valuable for traders, portfolio managers, and investors looking to optimize their strategies and minimize losses.<br/><p align='center'><img src='/images/CBOE Volatility Index.jpeg' width='400px' style='display: block; margin: 0 auto;'></p>"
+excerpt: "This project is providing a tool for financial professionals and investors to predict and manage stock market volatility in the Indian market. By creating a model to forecast volatility, individuals and organizations can make more informed investment decisions and potentially reduce the financial risks associated with market fluctuations. This can be particularly valuable for traders, portfolio managers, and investors looking to optimize their strategies and minimize losses.<br/><p align='center'><img src='/images/CBOE Volatility Index.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
