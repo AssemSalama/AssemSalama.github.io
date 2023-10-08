@@ -1,26 +1,25 @@
 ---
-title: "A/B Testing at WorldQuant University"
-excerpt: "This project aims to address the challenge of low completion rates for the admissions quiz in the Data Science Lab (DS Lab) program at WQU. The primary business problem is a substantial number of applicants not finishing the quiz, which can lead to reduced enrollment, inefficient resource allocation, and potential impacts on the quality of admitted students. The expected outcomes include increased quiz completion rates, resulting in higher enrollment, better resource management, and improved student quality, ultimately benefiting the DS Lab program at WQU.<br/><img src='/images/AB-Test (Small).jpg'>"
+title: "Customer Segmentation in the US"
+excerpt: "This project, utilizing data from the 2019 Survey of Consumer Finances and employing unsupervised learning techniques, aims to identify and segment households struggling to access credit. The business case extends to various sectors: financial services can tailor products, marketing can target specific consumer segments, credit scoring can become more precise, policymakers can enhance financial inclusion initiatives, and social researchers can gain insights into socioeconomic disparities. Ultimately, this project has the potential to improve financial access, customer engagement, and informed decision-making across industries while addressing the challenges faced by underserved households.
 collection: portfolio
 ---
 
-In this project, WQU needs our help to improve its programs! The team have noticed that many applicants to the DS Lab never complete the admissions quiz. In this project, We'll design and conduct an experiment to see if we can increase quiz completion.
+In this project, we'll use data from the [2019 Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm). First, you'll identify households that have a hard time getting credit. Then we'll build a model to segment these households into subgroups. Finally, you'll create an interactive web app to share our work.
 
-First, we'll explore the DS Lab applicant pool, and formulate a research question and hypothesis. Then we'll run our experiment and analyze the results. Finally, we'll build an interactive web application so that others can run the same experiment.
+This project is an example of **unsupervised learning**, specifically **clustering**. It can be used in commercial contexts for [marketing or customer segmentation](https://en.wikipedia.org/wiki/Market_segmentation) or in sociological contexts to study [social stratification](https://en.wikipedia.org/wiki/Social_stratification).
 
-This project is an example of **A/B testing**, also known as a randomized controlled experiment. In the private sector, A/B tests are used to improve things like email marketing and product pricing. In politics, they can be used to test campaign messages. Scientists of all kinds use them in their research.
+### We were able to:      
+- Compare characteristics across subgroups using a **side-by-side bar chart**.
+- Build a **k-means** clustering model.
+- Conduct **feature selection** for clustering based on variance.
+- Reduce high-dimensional data using **principal component analysis (PCA)**.
+- Design, build and deploy a Dash **web application**.
 
-We were able to:
-- Build a **choropleth map** to show the distribution of ADSL students around the world.
-- Create a **custom Python class** to implement **ETL processes**.
-- Design an experiment and analyze the results using a **chi-square test**.
-- Build an interactive web application that follows a **three-tiered design pattern**.
+### This project consists of 5 Notebooks:
+1. Exploring the Data
+2. Clustering with Two Features
+3. Clustering with Multiple Features
+4. Interactive Dashboard
+5. Small Business Owners in the United States🇺🇸
 
-### This project consists of 5 Notebooks :
-1. Meet the DS Lab Applicants
-2. Extract, Transform, and Loa
-3. Chi-square test
-4. Experiment Web Application
-5. Admissions in the MScFE 🎓🗞
-
-You can find the whole project blog [here](https://www.notion.so/Project_7-acd00891edba46ea8cdcfea85edb026a)
+You can find the whole project blog [here](https://www.notion.so/Project_6-8362f47d1b7f4b698f1a576c70d49307)
