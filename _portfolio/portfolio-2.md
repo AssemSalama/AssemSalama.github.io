@@ -1,6 +1,6 @@
 ---
 title: "A/B Testing at WorldQuant University"
-excerpt: "This project aims to address the challenge of low completion rates for the admissions quiz in the Data Science Lab (DS Lab) program at WQU. The primary business problem is a substantial number of applicants not finishing the quiz, which can lead to reduced enrollment, inefficient resource allocation, and potential impacts on the quality of admitted students. The expected outcomes include increased quiz completion rates, resulting in higher enrollment, better resource management, and improved student quality, ultimately benefiting the DS Lab program at WQU.<br/><img src='/images/AB-Test (Small).jpg'>"
+excerpt: "This project aims to address the challenge of low completion rates for the admissions quiz in the Data Science Lab (DS Lab) program at WQU. The primary business problem is a substantial number of applicants not finishing the quiz, which can lead to reduced enrollment, inefficient resource allocation, and potential impacts on the quality of admitted students. The expected outcomes include increased quiz completion rates, resulting in higher enrollment, better resource management, and improved student quality, ultimately benefiting the DS Lab program at WQU.<br/><img src="/images/AB-Test (Small).jpg" alt="A/B Testing" width="400" />"
 collection: portfolio
 ---
 
