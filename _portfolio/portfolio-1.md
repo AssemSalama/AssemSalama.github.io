@@ -1,6 +1,6 @@
 ---
 title: "Market Forecasting in India"
-excerpt: "This project is providing a tool for financial professionals and investors to predict and manage stock market volatility in the Indian market. By creating a model to forecast volatility, individuals and organizations can make more informed investment decisions and potentially reduce the financial risks associated with market fluctuations. This can be particularly valuable for traders, portfolio managers, and investors looking to optimize their strategies and minimize losses.<br/><img src='/images/CBOE Volatility Index.jpeg' width='300px'>"
+excerpt: "This project is providing a tool for financial professionals and investors to predict and manage stock market volatility in the Indian market. By creating a model to forecast volatility, individuals and organizations can make more informed investment decisions and potentially reduce the financial risks associated with market fluctuations. This can be particularly valuable for traders, portfolio managers, and investors looking to optimize their strategies and minimize losses.<br/><img src='/images/CBOE Volatility Index.jpeg' width='400px'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ We built a model to predict volatility on the Bombay Stock Exchange.
 
 First, you explored stock data for two companies using the [AlphaVantage](https://www.alphavantage.co/) stock API. Then we used that data to calculate volatility and build a model to predict it. Finally, you deployed our model by creating an API to serve predictions.
 
-We were able to:
+### We were able to:
 - Get data from a web API by making **HTTP requests**.
 - Transform and load data into a **SQL database** using **custom Python classes**.
 - Calculate **asset volatility** and build a **GARCH model** to predict it.
