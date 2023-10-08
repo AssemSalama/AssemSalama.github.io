@@ -1,6 +1,6 @@
 ---
 title: "Customer Segmentation in the US"
-excerpt: "This project, utilizing data from the 2019 Survey of Consumer Finances and employing unsupervised learning techniques, aims to identify and segment households struggling to access credit. The business case extends to various sectors: financial services can tailor products, marketing can target specific consumer segments, credit scoring can become more precise, policymakers can enhance financial inclusion initiatives, and social researchers can gain insights into socioeconomic disparities. Ultimately, this project has the potential to improve financial access, customer engagement, and informed decision-making across industries while addressing the challenges faced by underserved households.
+excerpt: "This project, utilizing data from the 2019 Survey of Consumer Finances and employing unsupervised learning techniques, aims to identify and segment households struggling to access credit. The business case extends to various sectors: financial services can tailor products, marketing can target specific consumer segments, credit scoring can become more precise, policymakers can enhance financial inclusion initiatives, and social researchers can gain insights into socioeconomic disparities. Ultimately, this project has the potential to improve financial access, customer engagement, and informed decision-making across industries while addressing the challenges faced by underserved households.<br/><img src='/images/AB-Test (Small).jpg'>"
 collection: portfolio
 ---
 
