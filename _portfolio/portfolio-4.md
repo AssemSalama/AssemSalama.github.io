@@ -1,6 +1,6 @@
 ---
 title: "Bankruptcy in Poland"
-excerpt: "This project builds predictive bankruptcy models using financial data from Poland and Taiwan, aiding investors in making informed decisions, helping financial institutions assess credit risk, and promoting stable business partnerships. It also assists policymakers in enhancing financial regulations and provides valuable insights to researchers, contributing to financial stability in these regions. Moreover, it supports the development of earthquake-resistant construction methods, strengthening the overall resilience of communities in these vulnerable areas.<br/><img src='/images/Bankruptcy.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
+excerpt: "This project builds predictive bankruptcy models using financial data from Poland and Taiwan, aiding investors in making informed decisions, helping financial institutions assess credit risk, and promoting stable business partnerships. It also assists policymakers in enhancing financial regulations and provides valuable insights to researchers, contributing to financial stability in these regions.<br/><img src='/images/Bankruptcy.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
