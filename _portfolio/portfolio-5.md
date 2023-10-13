@@ -1,6 +1,6 @@
 ---
 title: "Earthquake Damage in Nepal"
-excerpt: "This project presents a critical solution for assessing building damage caused by the Nepal 2015 Earthquake, benefiting disaster response and recovery. By analyzing data from Gorkha and Ramechhap districts through Open Data Nepal, it equips authorities and organizations with valuable insights for targeted interventions and resource allocation.<br/><img src='/images/Bankruptcy.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
+excerpt: "This project presents a critical solution for assessing building damage caused by the Nepal 2015 Earthquake, benefiting disaster response and recovery. By analyzing data from Gorkha and Ramechhap districts through Open Data Nepal, it equips authorities and organizations with valuable insights for targeted interventions and resource allocation.<br/><img src='/images/Earthquake in Nepal RGB color icon.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
