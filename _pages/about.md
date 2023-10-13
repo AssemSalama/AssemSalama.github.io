@@ -13,8 +13,7 @@ redirect_from:
 </div>
 
 ### ✨ About Me ✨
-Data science practitioner who has Telecomm. Engineering background with an enthusiasm for solving problems and making an impact through advanced analytics and machine learning.
-
+A data science practitioner with a background in Telecomm. Engineering, I aim to harness the potential of advanced analytics and machine learning for tackling complex problems and transforming data into actionable insights. I'm here to learn, innovate, and contribute to the exciting and rapidly growing world of data science.
 
 ### 📌 Currently 📌
 - 👨‍💻 IP Datacom Network Engineer at Vodafone Egypt
@@ -24,7 +23,8 @@ Data science practitioner who has Telecomm. Engineering background with an enthu
 
 
 ### 💡Core Competencies💡
-- Languages: Python
-- Big Data & Machine Learning: SQL, MongoDB, scikit-learn, NumPy, pandas, matplotlib
-Data Science: A/B testing, ETL, Data visualization, Hypothesis testing
-Skills: Regression, Classification, Clustering, and time series analysis
+- Programming Languages: Python
+- Big Data & Machine Learning: SQL, MongoDB, Python (e.g., scikit-learn, NumPy, pandas,matplotlib),
+ML techniques: Regression, Classification and Clustering.
+- Data Science & Miscellaneous Technologies: A/B testing, ETL, Data science pipeline (cleansing, wrangling, visualization, 
+modeling, interpretation), Statistics, Time series, Experimental design, Hypothesis testing, OOP, APIs, Excel.
