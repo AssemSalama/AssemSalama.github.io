@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="float: right; margin: 0px 0px 10px 10px;">
-  <img src="/images/pot_img.jpg" alt="Illustration of combining vision and language modalities" width="350px">
+  <img src="/images/pot_img.jpg" alt="Illustration of combining vision and language modalities" width="400px">
 </div>
 
 ### ✨ About Me ✨
