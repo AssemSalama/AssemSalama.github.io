@@ -1,6 +1,6 @@
 ---
 title: "Bankruptcy in Poland"
-excerpt: "This project aims to create a predictive model for bankruptcy using financial data from Poland and Taiwan, sourced from the Emerging Markets Information Service. By identifying companies at risk of bankruptcy, it offers potential solutions for a wide range of stakeholders. Investors can make more informed investment decisions, financial institutions can better assess credit risk, and businesses can ensure more stable partnerships. Policymakers can enhance financial regulations, and researchers can gain insights into regional bankruptcy factors. Ultimately, this project addresses critical financial risk assessment needs and contributes to financial stability and decision-making in the targeted regions.<br/><img src='/images/Bankruptcy.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
+excerpt: "This project builds predictive bankruptcy models using financial data from Poland and Taiwan, aiding investors in making informed decisions, helping financial institutions assess credit risk, and promoting stable business partnerships. It also assists policymakers in enhancing financial regulations and provides valuable insights to researchers, contributing to financial stability in these regions.<br/><img src='/images/Bankruptcy.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
