@@ -21,10 +21,13 @@ The heart of this project is answering business questions through SQL queries. T
 8. How many rolls were delivered that had both exclusions and extras?
 9. What was the total number of rolls ordered for each hour of the day?
 10. What was the number of orders for each day of the week?
+    
 ### B) Driver & Customer Experience
 1. What was the average time in minutes it took for each driver to arrive at Faasos HQ to pick up an order?
+
 ### C) Ingredient Optimization
 To be continued...
+
 ### D) Pricing and Rating
 To be continued...
 
