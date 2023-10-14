@@ -1,6 +1,6 @@
 ---
 title: "Air Quality in Nairobi"
-excerpt: "This project provides a valuable solution for improving air quality management in major African cities, namely Nairobi, Lagos, and Dar es Salaam. Leveraging data from openAfrica, we developed a time series model to predict PM 2.5 readings throughout the day, offering actionable insights for local governments, environmental agencies, and health organizations. It empowers decision-makers to implement targeted interventions, reduce pollution levels, and enhance public health, addressing critical air quality concerns across these urban centers.<br/><img src='/images/Factory.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
+excerpt: "This project provides a valuable solution for improving air quality management in major African cities, namely Nairobi, Lagos, and Dar es Salaam. Leveraging data from openAfrica, we developed a time series model to predict PM 2.5 readings throughout the day, offering actionable insights for local governments, environmental agencies, and health organizations. It empowers decision-makers to implement targeted interventions, reduce pollution levels, and enhance public health, addressing critical air quality concerns across these urban centers.<br/><img src='/images/pollution.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
