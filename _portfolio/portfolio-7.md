@@ -1,6 +1,6 @@
 ---
 title: "Housing in Buenos Aires"
-excerpt: "In this project, we acquired data wrangling and visualization skills while examining the real estate market in Mexico. In this project, we built on those skills and transitioned from descriptive to predictive data science. Our focus remained on real estate, where we created a machine-learning model that predicted apartment prices in Buenos Aires, Argentina.<br/><img src='/images/Cottage.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
+excerpt: "In this project, we acquired data wrangling and visualization skills while examining the real estate market in Mexico. We built on those skills and transitioned to descriptive and predictive data science. Our focus was on real estate, where we created a machine-learning model that predicted apartment prices in Buenos Aires, Argentina.<br/><img src='/images/Cottage.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
