@@ -1,6 +1,6 @@
 ---
 title: "Supply Chain Operations at Faasos"
-excerpt: "This project explores the fictional food delivery service, Faasos, using a SQLite database. It covers three main areas: database setup and data insertion, answering a wide range of business questions, including roll metrics and driver/customer experience. The project showcases the ability to clean and analyze data, create SQL queries, and derive valuable insights.<br/><img src='/images/Food Delivery.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
+excerpt: "This project explores the fictional food delivery service, Faasos, using a SQLite database. It covers three main areas: database setup and data insertion, answering a wide range of business questions, including roll metrics and driver/customer experience. The project showcases the ability to clean and analyze data, create SQL queries, and derive valuable insights.<br/><img src='/images/Premium Vector _ Food delivery.jpeg' width='400px' style='display: block; margin: 0 auto;'>"
 collection: portfolio
 ---
 
