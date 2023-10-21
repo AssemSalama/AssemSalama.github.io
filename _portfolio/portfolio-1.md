@@ -23,4 +23,4 @@ First, you explored stock data for two companies using the [AlphaVantage](https
 4. Model Deployment
 5. Volatility Forecasting in South Africa
 
-You can find the whole project blog [here](https://www.notion.so/Project_8-2d74b5a866694242911cf00c7ca4b759)
+You can find the whole project blog [here](https://tinted-aphid-1c9.notion.site/Project_8-2d74b5a866694242911cf00c7ca4b759?pvs=4)
