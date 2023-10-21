@@ -22,5 +22,5 @@ In this project, We learned data wrangling and visualization skills while examin
 5. Predicting Apartment Prices in Mexico City
    
 
-You can find the whole project blog [here](https://www.notion.so/Project_2-2ffc7345f0ab4abeaf604231b136476f?pvs=4)
+You can find the whole project blog [here](https://tinted-aphid-1c9.notion.site/Project_2-2ffc7345f0ab4abeaf604231b136476f?pvs=4)
 
