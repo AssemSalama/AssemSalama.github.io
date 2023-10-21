@@ -24,4 +24,4 @@ This project is an example of **A/B testing**, also known as a randomized contr
 4. Experiment Web Application
 5. Admissions in the MScFE 🎓🗞
 
-You can find the whole project blog [here](https://www.notion.so/Project_7-acd00891edba46ea8cdcfea85edb026a)
+You can find the whole project blog [here](https://tinted-aphid-1c9.notion.site/Project_2-2ffc7345f0ab4abeaf604231b136476f?pvs=4)
