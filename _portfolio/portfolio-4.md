@@ -21,5 +21,5 @@ We'll explore data collected by a team of Polish economists studying bankruptcy.
 4. Gradient Boosting Trees
 5. Bankruptcy in Taiwan 
 
-You can find the whole project blog [here](https://www.notion.so/Project_5-5af13307c68d49a4b3792c057897fdca)
+You can find the whole project blog [here](https://tinted-aphid-1c9.notion.site/Project_5-5af13307c68d49a4b3792c057897fdca?pvs=4)
 
