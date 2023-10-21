@@ -19,6 +19,6 @@ In this project, you'll work with data from one of Africa's largest open data pl
 4. ARMA Models and Hyperparameter Tuning
 5. Air Quality in Dar es Salaam
 
-You can find the whole project blog [here](https://www.notion.so/Project_3-320f2f1f775e4b9c8c2c6b579134d689?pvs=4)
+You can find the whole project blog [here](https://tinted-aphid-1c9.notion.site/Project_3-320f2f1f775e4b9c8c2c6b579134d689?pvs=4)
 
 
