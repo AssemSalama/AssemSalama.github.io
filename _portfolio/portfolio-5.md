@@ -19,5 +19,5 @@ In this project, we worked with data from Open Data Nepal to build a model to pr
 4. Beyond the Model: Data Ethics
 5. Earthquake Damage in Kavrepalanchok
 
-You can find the whole project blog [here](https://www.notion.so/Project_4-14e89d24912f4371a8b084fd231018d0?pvs=4)
+You can find the whole project blog [here](https://tinted-aphid-1c9.notion.site/Project_4-14e89d24912f4371a8b084fd231018d0?pvs=4)
 
