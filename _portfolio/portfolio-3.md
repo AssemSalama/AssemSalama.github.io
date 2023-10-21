@@ -22,4 +22,4 @@ This project is an example of **unsupervised learning**, specifically **cluste
 4. Interactive Dashboard
 5. Small Business Owners in the United States🇺🇸
 
-You can find the whole project blog [here](https://www.notion.so/Project_6-8362f47d1b7f4b698f1a576c70d49307)
+You can find the whole project blog [here](https://tinted-aphid-1c9.notion.site/Project_6-8362f47d1b7f4b698f1a576c70d49307?pvs=4)
