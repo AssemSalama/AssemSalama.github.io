@@ -7,8 +7,8 @@ collection: portfolio
 The Faasos is a food delivery service, and our task was to help optimize their supply chain operations. We needed to write complex SQL queries to analyze past order data, forecast demand, and recommend inventory management strategies. This project involves advanced data analysis and leverages SQL skills to the fullest.
 
 
-## The questions tackled in this project :
-The heart of this project is answering business questions through SQL queries. These questions are divided into four main segments:
+## The questions tackled in this project:
+The heart of this project is answering business questions through SQL queries. These questions are divided into two main segments:
 
 ### A) Roll Metrics
 1. How many rolls were ordered?
