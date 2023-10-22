@@ -24,12 +24,11 @@ The heart of this project is answering business questions through SQL queries. T
     
 ### B) Driver & Customer Experience
 1. What was the average time in minutes it took for each driver to arrive at Faasos HQ to pick up an order?
-
-### C) Ingredient Optimization
-To be continued...
-
-### D) Pricing and Rating
-To be continued...
+2. Is there any relationship between the Num of rolls and how long the order takes to be ready?
+3. What was the average distance travelled for each customer?
+4. What was the differnce between the longest and shortest delivery times for all orders?
+5. What was the average speed for each driver for each delivery and is there  any trend for these values?
+6. What is the successful delivery percentage for each driver?
 
 You can find the whole project notebook [here](https://github.com/AssemSalama/SQL-Data-Anaysis-Projects/blob/master/Faasos/Faasos_SQL_Project.ipynb)
 
