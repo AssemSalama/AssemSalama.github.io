@@ -23,8 +23,9 @@ A data science practitioner with a background in Telecomm. Engineering, I aim to
 
 
 ### 💡Core Competencies
-- Programming Languages: Python
-- Big Data & Machine Learning: SQL, MongoDB, Python (e.g., scikit-learn, NumPy, pandas,matplotlib),
-ML techniques: Regression, Classification and Clustering.
-- Data Science & Miscellaneous Technologies: A/B testing, ETL, Data science pipeline (cleansing, wrangling, visualization, 
-modeling, interpretation), Statistics, Time series, Experimental design, Hypothesis testing, OOP, APIs, Excel.
+- Programming: Python (scikit-learn, NumPy, pandas, matplotlib), OOP, Design pattern 
+- Big Data: SQL, MongoDB
+- Machine Learning: Regression, Classification, Clustering, Dimensionality Reduction, Anomaly Detection
+- Data Science Techniques: A/B Testing, ETL, Data Cleaning, Feature Engineering, Hypothesis Testing, APIs
+- Time Series Analysis: ARMA, GARCH, Forecasting Models
+- Software Tools: Linux, Git, Plotly Dash
